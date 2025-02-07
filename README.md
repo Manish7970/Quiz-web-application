@@ -81,6 +81,9 @@ project/
 Feel free to submit issues or pull requests. For major changes, please open an issue first to discuss what you'd like to change.
 
 ---
+##License
+
+This project is licensed under the MIT License.
 
 **Happy Coding!**
 
